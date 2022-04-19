@@ -1,0 +1,23 @@
+#lheader{
+  -fx-font-family: 'Algerian';
+  -fx-font-size: 26;
+  -fx-font-weight: bolder;
+}
+
+#topPane{
+	-fx-background-color: #d49b5d;
+}
+
+.option{
+    -fx-background-color: #d49b5d;
+    -fx-padding: 10 40;
+}
+
+.err{
+	-fx-text-fill: red;
+	-fx-font-size: 10;
+}
+
+.centerPane{
+	-fx-background-color: #deeaf6
+}
